@@ -2,7 +2,7 @@
 main:
   - title: "about"
     url: /about/
-  - title: "프로젝트"
+  - title: "project"
     url: /categories/toy_project/
   - title: "categories"
     url: /categories/
@@ -13,8 +13,7 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-
-
+  
 sidebar-contents:
   - title: "Python"
     children:
