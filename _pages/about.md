@@ -1,5 +1,5 @@
 ---
-title: "YounGeun Shin"
+title: "SoonYoung Kim"
 permalink: /about/
 layout: single
 ---
